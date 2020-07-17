@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 something here I think I fixed the issue
+=======
+something here I fixed it
+>>>>>>> newfeature
 ++
 .
